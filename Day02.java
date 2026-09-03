@@ -1,4 +1,5 @@
-public class day 2 :Biodata {
+public class day2 {
+    
     public static void main(String[] args) {
 
         // Menggunakan println()
@@ -7,11 +8,11 @@ public class day 2 :Biodata {
         System.out.println("Prodi      : Informatika");
         
         // menggunakan print ()
-        System.out.print("alasan masuk isc :");
-        system.out.print("saya ingin jago dalam hal ngoding jadi saya rasa di sini tempatnya");
+        System.out.print("alasan masuk isc ");
+        System.out.print("saya ingin jago.");
         
         int umur = 18;
         
-        System.out.printf("halo umur saya tahun ini adalah %d.", umur);
+        System.out.printf("%nHalo, umur saya tahun ini %d tahun.", umur);
     }
 }
