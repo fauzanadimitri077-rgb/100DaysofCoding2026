@@ -24,3 +24,4 @@ public class Main {
 		// \f igunakan untuk form feed, dan saat ini cukup jarang digunakan.
 		System.out.println("fauzan adi\fmitri ");
 	}
+}
